@@ -1,0 +1,106 @@
+Lambda     K      H
+   0.314    0.132    0.429 
+
+Lambda     K      H
+   0.267   0.0404    0.140 
+
+
+>1ESL_A
+          Length = 162
+
+ Score = 30.8 bits (68), Expect = 0.20,   Method: Composition-based stats.
+ Identities = 20/69 (28%), Positives = 29/69 (42%), Gaps = 15/69 (21%)
+
+Query: 16 QELELFKRAMGITPHNYWQWASRTNNFKLLTDGEWVWVEGYEEHIGKQLPLN-QARAWSW 74
+          +E+E     +  +P  YW    + NN        WVWV       G Q PL  +A+ W+ 
+Sbjct: 33 EEIEYLNSILSYSPSYYWIGIRKVNNV-------WVWV-------GTQKPLTEEAKNWAP 78
+
+Query: 75 EFIKNRLKE 83
+              NR K+
+Sbjct: 79 GEPNNRQKD 87
+
+
+
+>2BAS_B
+          Length = 431
+
+ Score = 26.6 bits (57), Expect = 3.6,   Method: Composition-based stats.
+ Identities = 16/49 (32%), Positives = 23/49 (46%), Gaps = 15/49 (30%)
+
+Query: 40  NNFKLLTDGEWVWVEGYEEHIGKQLPLNQARAWSWE--FIKNRLKELNL 86
+           N FK   DGEW++   Y E           + WSW   F++N ++  NL
+Sbjct: 349 NVFK--QDGEWIYQPEYAE-----------KNWSWRPYFLENIMRMRNL 384
+
+
+
+ Score = 20.0 bits (40), Expect =   374,   Method: Composition-based stats.
+ Identities = 7/23 (30%), Positives = 14/23 (60%)
+
+Query: 10  VRELTPQELELFKRAMGITPHNY 32
+           ++E   + +EL +  + IT HN+
+Sbjct: 130 LKEYEAKGIELHRFVLEITEHNF 152
+
+
+
+ Score = 15.4 bits (28), Expect =  7729,   Method: Composition-based stats.
+ Identities = 6/28 (21%), Positives = 15/28 (53%)
+
+Query: 1   GSEEKEEKKVRELTPQELELFKRAMGIT 28
+           G E     ++  L+P  L++  +A+ ++
+Sbjct: 179 GKESSNLDRIALLSPDLLKIDLQALKVS 206
+
+
+
+
+
+
+
+>1G1T_A
+          Length = 157
+
+ Score = 30.4 bits (67), Expect = 0.27,   Method: Composition-based stats.
+ Identities = 20/69 (28%), Positives = 29/69 (42%), Gaps = 15/69 (21%)
+
+Query: 16 QELELFKRAMGITPHNYWQWASRTNNFKLLTDGEWVWVEGYEEHIGKQLPLN-QARAWSW 74
+          +E+E     +  +P  YW    + NN        WVWV       G Q PL  +A+ W+ 
+Sbjct: 33 EEIEYLNSILSYSPSYYWIGIRKVNNV-------WVWV-------GTQKPLTEEAKNWAP 78
+
+Query: 75 EFIKNRLKE 83
+              NR K+
+Sbjct: 79 GEPNNRQKD 87
+
+
+
+  
+Lambda     K      H
+   0.314    0.132    0.429 
+
+Lambda     K      H
+   0.267   0.0404    0.140 
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Number of Hits to DB: 2,919,684
+Number of Sequences: 56085
+Number of extensions: 114370
+Number of successful extensions: 11923
+Number of sequences better than 11000.0: 500
+Number of HSP's better than 11000.0 without gapping: 10014
+Number of HSP's successfully gapped in prelim test: 0
+Number of HSP's that attempted gapping in prelim test: 0
+Number of HSP's gapped (non-prelim): 11814
+length of query: 86
+length of database: 14,014,434
+effective HSP length: 54
+effective length of query: 32
+effective length of database: 10,985,844
+effective search space: 351547008
+effective search space used: 351547008
+T: 11
+A: 40
+X1: 16 ( 7.3 bits)
+X2: 38 (14.6 bits)
+X3: 64 (24.7 bits)
+S1: 27 (15.2 bits)
+S2: 27 (15.0 bits)
